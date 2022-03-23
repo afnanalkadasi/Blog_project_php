@@ -33,7 +33,7 @@ include("sharingbuttons.php");
 	    	</div>
 	    </div>
 			<?php
-		showSharer("http://localhost/php/t8/blog_project/", "A See The post !");
+		showSharer("https://afnanalkadasi.github.io/Blog_project_php/", "A See The post in this link !");
 		?>
 				</div>
 		<?php } ?>
